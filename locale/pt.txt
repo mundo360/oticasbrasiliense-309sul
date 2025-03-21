@@ -1,0 +1,47 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_AFE7696E_B94A_EC31_41DF_F084E021D80D.source = https://api.whatsapp.com/send?phone=5561996303997
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d239.92287283597736!2d-47.90650656815587!3d-15.81628967935693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3ab6d9dd03b7%3A0x6d4b550e8dcf96ab!2s%C3%93ticas%20Brasiliense%20%7C%20%C3%93tica%20na%20Asa%20Sul%20%7C%20Arma%C3%A7%C3%B5es%20Ray%20ban%20Vogue%20Miu%20Miu%20Prada%20Versace%20burberry!5e0!3m2!1spt-BR!2sbr!4v1742562421474!5m2!1spt-BR!2sbr
+LinkBehaviour_A0F3607B_B97B_5C10_41E6_33F5BB0855C4.source = https://www.instagram.com/oticasbrasiliense309sul/
+
+## Media
+
+### Title
+panorama_A169CAEC_B94B_2C31_41E1_A6D8E8A2C992.label = 360-14
+
+## Skin
+
+### Button
+Button_A0F0507B_B97B_5C10_41CE_AEEEDB0BA133.label = ( X ) FECHAR JANELA
+Button_AE36ABF1_B939_6C13_4194_2A613EF9FB82.label = ( X ) FECHAR JANELA
+Button_A0F4D07A_B97B_5C10_41DC_C3BCE63DF3C1.label = ACESSAR INSTAGRAM
+Button_AF41D319_B937_5C10_41E0_7F2B0F3FAE3D.label = CONVERSAR VIA WHATSAPP
+
+### Image
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile_pt.png
+Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29.url = skin/Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29_pt.png
+Image_731CA57E_60BF_A2A1_4190_01076897586C.url = skin/Image_731CA57E_60BF_A2A1_4190_01076897586C_pt.jpg
+Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F.url = skin/Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F_pt.jpg
+Image_A0EF6078_B97B_5C10_41DC_A68D67F14E8A.url = skin/Image_A0EF6078_B97B_5C10_41DC_A68D67F14E8A_pt.png
+Image_A306B256_B97F_3C10_41D9_352F407E754F.url = skin/Image_A306B256_B97F_3C10_41D9_352F407E754F_pt.png
+Image_A90FDFBD_B8CB_2413_41E6_33C35B5EE768.url = skin/Image_A90FDFBD_B8CB_2413_41E6_33C35B5EE768_pt.png
+Image_AB711250_B8CF_5C11_41E3_C121D625F103.url = skin/Image_AB711250_B8CF_5C11_41E3_C121D625F103_pt.png
+Image_AB713250_B8CF_5C11_41E2_DA53E141DD73.url = skin/Image_AB713250_B8CF_5C11_41E2_DA53E141DD73_pt.png
+Image_AB79686A_B8C9_2C31_41C7_15A49AE3950A.url = skin/Image_AB79686A_B8C9_2C31_41C7_15A49AE3950A_pt.png
+Image_AF34B30F_B937_5DF0_41DE_84D8359EB2BB.url = skin/Image_AF34B30F_B937_5DF0_41DE_84D8359EB2BB_pt.png
+
+### Multiline Text
+HTMLText_731F057E_60BF_A2A1_41C8_ACE4EB05FF54.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.3699999999999966vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_A0F4E079_B97B_5C10_41C8_FF1A70EA0380.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.33vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>ACESSE NOSSO PERFIL DO INSTAGRAM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.33vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:5vmin;font-family:'Montserrat';">ÓTICAS</SPAN><SPAN STYLE="font-size:4.72vmin;font-family:'Montserrat';"><B>BRASILIENSE</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.166666666666667vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.17vmin;">ACESSE NOSSO PERFIL DO INSTAGRAM PARA VER NOSSAS PROMOÇÕES E INFORMAÇÕES SOBRE PRODUTOS</SPAN></SPAN></DIV></div>
+HTMLText_AF409318_B937_5C10_41E6_635565699234.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.33vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>Fale com um especialista</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.33vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:5vmin;font-family:'Montserrat';">ÓTICAS</SPAN><SPAN STYLE="font-size:4.72vmin;font-family:'Montserrat';"><B>BRASILIENSE</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.166666666666667vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.17vmin;">Entre em contato agora mesmo com um consultor especialsta de nossa unidade da 309 sul. Nossa equipe conta com profissionais qualificados para esclarecer qualqueR dúvida sobre os óculos.</SPAN></SPAN></DIV></div>
+HTMLText_731CF57E_60BF_A2A1_41D7_B81B17089B91.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.469999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:8.47vmin;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.279999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.28vmin;font-family:'Montserrat';">Licensed Real Estate Salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.15vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8900000000000006vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8900000000000006vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8900000000000006vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 57
